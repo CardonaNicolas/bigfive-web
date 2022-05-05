@@ -1,8 +1,7 @@
 # bigfive-web
 
-<img src="https://github.com/rubynor/bigfive-web/blob/master/static/icon.png?raw=true" width="160" height="160" alt="Bigfive logo" align="right">
+This is FORK from https://bigfive-test.com git hub
 
-Prod: https://bigfive-test.com
 
 Website for five factor model of personality based on work from [IPIP-NEO-PI](https://github.com/kholia/IPIP-NEO-PI).
 
